@@ -1,10 +1,10 @@
 # SCT-DS-Task04
 
-#Traffic Accident Data Analysis – US Accidents Dataset
+# Traffic Accident Data Analysis – US Accidents Dataset
 
 This project analyzes traffic accident data to identify patterns related to road conditions, weather, and time of day. The goal is to discover accident hotspots and key contributing factors.
 
-#Dataset
+# Dataset
 Source: Kaggle
 Dataset: US Accidents (2016–2023)
 File Used: US_Accidents_March23.csv
