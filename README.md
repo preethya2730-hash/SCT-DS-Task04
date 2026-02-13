@@ -8,7 +8,7 @@ This project analyzes traffic accident data to identify patterns related to road
 Source: Kaggle
 Dataset: US Accidents (2016–2023)
 File Used: US_Accidents_March23.csv
-# Due to this limitation, the dataset is not included in this repository.
+# Due to this upload limitation (25MB), the dataset is not included in this repository.
 
 # Objective
 
